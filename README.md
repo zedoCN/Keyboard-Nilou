@@ -68,30 +68,28 @@ https://oshwhub.com/zedo_cn/jian-pan-wai-she
     > * MAu.mp3  音频编辑模式
     > * MNo.mp3  普通模式
     > * MSe.mp3  设置模式
-    >   > SCh.mp3  设置选择
-        > SVo.mp3  音量设置
-        > Ske.mp3  key音设置
+    >   > * SCh.mp3  设置选择
+    >   > * SVo.mp3  音量设置
+    >   > * Ske.mp3  key音设置
     >   > * SLm.mp3  灯光模式
     >   >   > SLm0.mp3  0无灯光
-            > SLm1.mp3  1常亮
-            > SLm2.mp3  2独亮
-            > SLm3.mp3  3独亮闪烁
-
+    >   >   > SLm1.mp3  1常亮
+    >   >   > SLm2.mp3  2独亮
+    >   >   > SLm3.mp3  3独亮闪烁
     >   > * SLc.mp3  灯光颜色
     >   >   > SLc0.mp3  0自定义颜色
-            > SLc1.mp3  1七彩渐变
-            > SLc2.mp3  2七彩渐变流水
-            > SLc3.mp3  3随机
-            > SLc4.mp3  4纯红
-            > ...
-            > SLc11.mp3  11纯白
-
+    >   >   > SLc1.mp3  1七彩渐变
+    >   >   > SLc2.mp3  2七彩渐变流水
+    >   >   > SLc3.mp3  3随机
+    >   >   > SLc4.mp3  4纯红
+    >   >   > ...
+    >   >   > SLc11.mp3  11纯白
     >   > * SLb.mp3  灯光亮度
     >   > * SEx.mp3  退出设置
     >   > * SSh.mp3  震动设置
     >   >   > SSh0.mp3  0无震动
-            > SSh1.mp3  1轻震动
-            > SSh2.mp3  2重震动
+    >   >   > SSh1.mp3  1轻震动
+    >   >   > SSh2.mp3  2重震动
     >   > * SEx.mp3  退出设置
 
 
