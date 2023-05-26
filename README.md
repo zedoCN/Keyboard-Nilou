@@ -38,8 +38,8 @@
  ![IMG](/img/IMG_20230309_190019.jpg)  
  ![IMG](/img/IMG_20230309_190137.jpg)  
 
-# 嘉立创地址
-https://oshwhub.com/zedo_cn/jian-pan-wai-she
+# 嘉立创地址 [URL](https://oshwhub.com/zedo_cn/jian-pan-wai-she)
+
 
 
 ## 所有的音频
