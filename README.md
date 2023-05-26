@@ -1,4 +1,4 @@
-# Keyboard-Nilou  
+# Keyboard-Nilou  (KB-Nilou)
  
 ## 描述  
 ### 目前实现的功能：  
@@ -38,32 +38,29 @@
  ![IMG](/img/IMG_20230309_190019.jpg)  
  ![IMG](/img/IMG_20230309_190137.jpg)  
 
-# 嘉立创地址 [URL](https://oshwhub.com/zedo_cn/jian-pan-wai-she)
-
+# PCB链接 [嘉立创](https://oshwhub.com/zedo_cn/jian-pan-wai-she)
 
 
 ## 所有的音频
 
 
 * key音
-    > Kll.mp3  key音
-    > Knya.mp3  key音
-    > Kosu.mp3  key音
-    > Krachel.mp3  key音
-    > Ktshe.mp3  key音
+    > * Kll.mp3  key音
+    > * Knya.mp3  key音
+    > * Kosu.mp3  key音
+    > * Krachel.mp3  key音
+    > * Ktshe.mp3  key音
 * 其他
-    > Wel.mp3  欢迎
-    > OK.mp3  好
-    > UDSD.mp3  了解
-    > choose.mp3  选择音效
-    > HOc.mp3  上位机连接
-    > HOd.mp3  上位机断开连接
+    > * Wel.mp3  欢迎
+    > * OK.mp3  好
+    > * UDSD.mp3  了解
+    > * choose.mp3  选择音效
+    > * HOc.mp3  上位机连接
+    > * HOd.mp3  上位机断开连接
 * 数字
-    > Nu0.mp3  数字0
-    > ...
-    > Nu10.mp3  数字10
-
-
+    > * Nu0.mp3  数字0
+    > * ...
+    > * Nu10.mp3  数字10
 * MCh.mp3  模式选择
     > * MAu.mp3  音频编辑模式
     > * MNo.mp3  普通模式
