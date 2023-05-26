@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:micro",
+    "port": "COM5",
+    "sketch": "KB-Nilou.ino"
+}

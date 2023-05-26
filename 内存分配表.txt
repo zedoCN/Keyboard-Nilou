@@ -1,0 +1,50 @@
+   地址 大小 变量名         解释          类型        注释
+    0   1   volume          音量           char        0-31
+    1   1   lightMode       灯光模式       char        0无灯光 1常亮 2独亮 3独亮闪烁
+    2   1   lightColor      灯光颜色       char        0自定义颜色 1七彩渐变 2七彩渐变流水 3随机 4纯红 5纯橙 6纯黄 7纯绿 8纯蓝 9纯粉 10纯紫 11白色
+    3   1   lightBrightness 灯光亮度       char        0-15
+    4   1   shakeMode       震动           char        0无震动 1轻震动 2重震动
+    5   1   keyAudio        key音          char        key 0无声音 1-32
+    
+
+    16   4  lightTransition 灯光过渡        float       默认0.2
+    20   4  keyTSPress      按下灯光过渡    float       默认0.25
+    24   4  keyTSRelease    松开灯光过渡    float       默认0.08
+    
+
+    32  4   keyPressAll  总敲击统计     u long
+    36  4   runCount     运行次数       u long
+    40  4   runTimes     运行时间       u long   10s为一个单位
+
+
+    48  4   keyPress0    K0敲击统计     u long
+    52  4   keyPress1    K1敲击统计     u long
+    56  4   keyPress2    K2敲击统计     u long
+    60  4   keyPress3    K3敲击统计     u long
+    64  4   keyPress4    K4敲击统计     u long
+    68  4   keyPress5    K5敲击统计     u long
+    72  4   keyPress6    K6敲击统计     u long
+
+
+    80  1   keyMapping0     K0映射键    char
+    81  1   keyMapping1     K1映射键    char
+    82  1   keyMapping2     K2映射键    char
+    83  1   keyMapping3     K3映射键    char
+    84  1   keyMapping4     K4映射键    char
+    85  1   keyMapping5     K5映射键    char
+    86  1   keyMapping6     K6映射键    char
+
+
+    112 3   keyPressColor0   K0按下颜色 char*3
+    115 3   keyPressColor1   K1按下颜色 char*3
+    118 3   keyPressColor2   K2按下颜色 char*3
+    121 3   keyPressColor3   K3按下颜色 char*3
+    124 3   keyPressColor4   K4按下颜色 char*3
+    127 3   keyPressColor5   K5按下颜色 char*3
+    130 3   keyPressColor6   K6按下颜色 char*3
+
+
+    144  3   keyReleaseColor  key默认颜色 char*3
+
+
+

@@ -1,0 +1,21 @@
+
+单片机->上位机
+char        char       chars      0xff
+[长度]      [命令]      [数据]    [结束符]
+
+上位机->单片机
+char       chars
+[命令]      [数据]
+
+0   异常    CMD_ERROR       
+1   握手    CMD_HAND_SHAKE  'KBNL' (chars) 4字节
+2   事件    CMD_EVENT       事件编号(char)  KEY_PRESS, KEY_RELEASE, RE_ROTARY_CLOCKWISE, RE_ROTARY_COUNTERCLOCKWISE, RE_PRESS, RE_LONG_PRESS
+3   读取C   CMD_READ_C      编号(char)  RGB(char*3)
+4   写入C   CMD_WRITE_C     编号(char)  RGB(char*3)
+5   播放    CMD_PLAY        音频名(chars)
+6   成功    CMD_OK          
+7   调试    CMD_DEBUG       内容(chars)
+8   读取E   CMD_READ_E      地址(char) 长度(char) 数据(chars)       
+9   写入E   CMD_WRITE_E     地址(char) 长度(char) 数据(chars)
+10  重载    CMD_FLUSH
+11  ping    CMD_PING
