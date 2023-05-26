@@ -16,8 +16,8 @@
  
 
 ## PCB图：  
-![IMG](/img/pcb-1.jpg)  
-![IMG](/img/pcb-2.jpg)  
+ ![IMG](/img/pcb-1.jpg)  
+ ![IMG](/img/pcb-2.jpg)  
 
  
 
@@ -38,7 +38,10 @@
  ![IMG](/img/IMG_20230309_190019.jpg)  
  ![IMG](/img/IMG_20230309_190137.jpg)  
 
-# PCB链接 [嘉立创](https://oshwhub.com/zedo_cn/jian-pan-wai-she)
+## 原理图 [嘉立创](https://oshwhub.com/zedo_cn/jian-pan-wai-she)
+ ![IMG](/img/pcb-3.png)  
+ ![IMG](/img/pcb-4.png)  
+ ![IMG](/img/pcb-5.png)  
 
 
 ## 所有的音频
